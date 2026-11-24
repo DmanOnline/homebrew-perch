@@ -1,8 +1,8 @@
 # Homebrew cask for Perch. The release workflow fills in VERSION and SHA256
 # and pushes the result to github.com/DmanOnline/homebrew-perch.
 cask "perch" do
-  version "0.3.0"
-  sha256 "c5e4f306cab4847b39a2a3b40879b2de1ee112a59cc404ccc40e25866e9343a6"
+  version "0.4.0"
+  sha256 "9ad699fa30ee7ead095e51e3456905c33ab79495793630953c56bc7645f777c0"
 
   url "https://github.com/DmanOnline/perch/releases/download/v#{version}/Perch-#{version}.dmg"
   name "Perch"
